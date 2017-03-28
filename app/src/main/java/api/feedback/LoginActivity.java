@@ -35,7 +35,6 @@ public class LoginActivity extends AppCompatActivity {
 
     //String login pass
     String[][] loginData = {
-            {"60004150015", "60004150015", "SE-A"},
             {"60004150035", "60004150015", "SE-B"},
             {"60004150011", "60004150015", "SE-A"},
             {"60004140002", "60004140002", "TE-A"},
