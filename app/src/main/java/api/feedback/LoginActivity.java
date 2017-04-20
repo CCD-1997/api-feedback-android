@@ -33,7 +33,7 @@ public class LoginActivity extends AppCompatActivity {
     private EditText passwordView;
     private ProgressDialog progressDialog;
 
-    //String login pass
+    //String login pass (Dummy Data)
     String[][] loginData = {
             {"60004150035", "60004150015", "SE-B"},
             {"60004150011", "60004150015", "SE-A"},

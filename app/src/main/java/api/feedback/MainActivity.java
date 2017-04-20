@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
         rv.setAdapter(new SubjectAdapter(this, getData(div)));
     }
 
+    // Dummy Data
     private ArrayList<Subject> getData(String div){
         ArrayList<Subject> subjects = new ArrayList<>();
         if(Objects.equals(div, "SE-A")){
